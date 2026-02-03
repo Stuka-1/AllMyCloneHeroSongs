@@ -1,0 +1,55 @@
+Guitar Hero - Metallica
+v1.341 (13/5/2020)
+ 
+ - Updated album arts to better ones
+
+v1.34 (14/5/2020)
+
+ - Added preview.ogg's for every song
+   - The Thing That Should Not Be (Wii)
+   - Nothing Else Matters (Wii)
+   - Hit The Lights (Wii)
+   - Creeping Death (Wii)
+   - The Black River (Wii)
+   (Expect lower quality for those previews)
+ - Added a Rhythm difficulty rating for Nothing Else Matters
+ - Added a Rhythm difficulty rating for Orion
+ - Changed the Rhythm difficulty for Frantic to 6 (was 7)
+
+v1.33 (12/10/2019)
+
+ - Improved crowd stems for "The Memory Remains"
+ - Renamed "Mercyful Fate (Medley)" to "Mercyful Fate"
+
+v1.32 (15/9/2019)
+
+ - Added sustain threshold
+ - Adjusted the crowd stem for Master of Puppets
+ - Adjusted the crowd stem for Nothing Else Matters
+
+v1.31 (8/13/2019)
+
+ - Fixed a mistake in the charts and audio
+
+v 1.3 (5/18/2019)
+
+ - Re-added crowd stems because of community feedback
+
+v 1.2 (5/11/2019)
+
+ - Removed crowd stems
+ - Lowered the bass volume on some songs
+ - Fixed alot of stems
+ - Added new album art for some songs
+ - Added playlist_track to song.ini's
+ - Fixed some song.ini's having the wrong metadata
+ - Fixed the spelling mistake on the genre for Nothing Else Matters its now "Thrash Metal" instead of "Trash Metal"
+
+v 1.1 (5/9/2019)
+
+ - Re-ripped and converted all songs from GH:M (Xbox)
+ - Renamed every folder to "Artist - Song" instead of "1 - Song"
+
+v 1.0
+
+ - First release
