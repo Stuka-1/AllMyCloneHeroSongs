@@ -1,0 +1,16 @@
+Guitar Hero - Van Halen
+v2.01 (15/9/2019)
+ 
+ - Added sustain threshold
+
+v 2.0 (7/17/2019)
+
+- Reripped all the audio and charts
+- Fixed the infamous "Tap Note bug" (This will be fixed in other games like Smash Hits too)
+- Changed folder names to "Artist - Song" instead of "Number - Song"
+- Renamed rhythm.ogg to bass.ogg
+- Fixed some metadata
+
+v 1.0
+
+- First release (8/27/2017)
